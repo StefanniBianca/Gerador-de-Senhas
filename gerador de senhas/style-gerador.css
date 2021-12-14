@@ -1,0 +1,28 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Exo:wght@100&family=IM+Fell+English+SC&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;   
+}
+.main {
+    color: ghostwhite;
+    display: block;
+    padding: 15px;
+}
+.red {
+    display: block;
+    align-content: center;
+    background-color: black;
+    border-radius: 15px;
+    width: 35%;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+body {
+    background-color: #FFC857;
+}
+.ale {
+    background-color: #474350;
+    width: 200px;
+}
